@@ -2,7 +2,7 @@
 # UX Portfolio
 
 
-## UX Team Project
+## Cole's UX Team Project
 
 
 ## UX Journal
