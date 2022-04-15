@@ -4,7 +4,7 @@ By Cole Hopkins
 
 [Return to Home](../)
 
-![alt text](../assets/blackboard.jpg "Blackboard Learn")
+![alt text](../assets/blackboard.png "Blackboard Learn")
 
 text here...
 
