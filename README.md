@@ -7,6 +7,7 @@ Hello, my name is Cole Hopkins and I am a Computer Science student. I'm taking t
 ## UX Journal
 
 [Journal Entry 1](j01/)
+
 [Journal Entry 2](j02/)
 
 ## UX Team Project
