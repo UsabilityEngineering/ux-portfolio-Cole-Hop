@@ -5,9 +5,9 @@ By Cole Hopkins
 [Return to Home](../)
 
 <p float="left">
-  <img src="../assets/clock_right.jpg" width="330" />
-  <img src="../assets/clock_front.jpg" width="330" /> 
-  <img src="../assets/clock_left.jpg" width="330" />
+  <img src="../assets/clock_right.jpg" width="210" />
+  <img src="../assets/clock_front.jpg" width="210" /> 
+  <img src="../assets/clock_left.jpg" width="210" />
 </p>
 
 I have an alarm clock that I find horrible to operate, and incredibly confusing. Not only are the buttons to configure the clock somewhat vague, but the fact that the buttons circle the entire perimeter of the clock makes it a task to find what you're looking for. I have owned this clock for about a year, and still have no idea what the buttons do. Since each button has roughly the same shape and size, and each has an icon that is informative. Along with this, some buttons have multiple uses if clicked after other buttons, making a clock that is not **learnable** nor **memorable** unless you have meticulously studied the instruction pamphlet.
