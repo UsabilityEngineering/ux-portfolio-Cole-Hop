@@ -11,3 +11,5 @@ Hello, my name is Cole Hopkins and I am a Computer Science student. I'm taking t
 [Journal Entry 2](j02/)
 
 ## UX Team Project
+
+[Link to Ping-Me Usability Project Page](https://usabilityengineering.github.io/Ping-Me/)
